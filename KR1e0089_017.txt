@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋辯義
-#+DATE: 2015-09-23 09:40:21
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:16:21.355473
+#+PROPERTY: ID KR1e0089
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1e0089_WYG_017-1a>¶
 欽定四庫全書¶
 　春秋辯義卷十七　　　　明　卓爾康　撰¶
@@ -897,4 +899,3 @@
 　¶
 　¶
 　春秋辯義卷十七¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋辯義
-#+DATE: 2015-09-23 09:40:21
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:16:21.012020
+#+PROPERTY: ID KR1e0089
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0089_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋辯義卷一　　　　明　卓爾康　撰¶
@@ -884,4 +886,3 @@
 　以信衛人討賊立君之義于天下結正五國輔簒之¶
 　罪也陳氏曰必若衛人賊討而後可書立¶
 　春秋辯義卷一¶
-
